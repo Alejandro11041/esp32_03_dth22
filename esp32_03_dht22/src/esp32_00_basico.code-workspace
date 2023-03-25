@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/esp32_00_basico"
+		},
+		{
+			"path": "../../../../../Desktop/supermercado"
+		},
+		{
+			"name": "esp32_01_dweet",
+			"path": "../../esp32_01_dweet"
+		},
+		{
+			"path": "../../../../../Desktop/Hoja de vida-20230304T022851Z-001"
+		},
+		{
+			"name": "esp32_03_dht22",
+			"path": ".."
+		},
+		{
+			"path": "../../esp32_02_server"
+		},
+		{
+			"name": "esp32_04_punteros",
+			"path": "../../esp32_04_punteros"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "supermercado",
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
